@@ -1,6 +1,13 @@
 # mjpeg_stream_webcam with receier.py
 meska/mjpeg_stream_webcam https://github.com/meska/mjpeg_stream_webcam に、受信機能を持たせた。
 
+# 実行方法
+- Terminal1
+`python3 mjpegsw.py --camera 0 --port 5001 --ipaddress 0.0.0.0`
+
+- Terminal2
+`python3 receiver.py`
+
 # mjpeg_stream_webcam
 Webcam Streamer for Octoprint
 
