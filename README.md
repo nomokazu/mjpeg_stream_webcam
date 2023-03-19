@@ -1,3 +1,6 @@
+# mjpeg_stream_webcam with receier.py
+meska/mjpeg_stream_webcam https://github.com/meska/mjpeg_stream_webcam に、受信機能を持たせた。
+
 # mjpeg_stream_webcam
 Webcam Streamer for Octoprint
 
